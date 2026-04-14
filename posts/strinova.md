@@ -18,4 +18,4 @@ strinova的md测试文件
 
 # 星绘
 
-![](/wallpaper-2871067648.png)
+![](/wallpaper-2871067648.webp)

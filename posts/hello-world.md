@@ -2,7 +2,6 @@
 title: HelloWorld
 date: 2024-04-16
 tags: [HelloWorld, vue, vitepress]
-pinned: false
 head:
   - - meta
     - name: description
