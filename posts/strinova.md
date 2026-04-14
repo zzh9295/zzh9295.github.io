@@ -2,6 +2,7 @@
 title: strinova
 date: 2026-04-14
 tags: [game]
+cover: /wallpaper-2871067648.webp
 pinned: true
 head:
   - - meta
