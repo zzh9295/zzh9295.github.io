@@ -69,8 +69,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   // sitemap: {
   //   hostname: 'https://vitepress-theme-bluearchive.vercel.app',
   // },
-  title: "Sensei's 部落格",
-  description: "Sensei's 部落格",
+  title: "唐雪儿",
+  description: "唐雪儿",
   themeConfig: {
     // navBar
     menuList: [
@@ -80,8 +80,8 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     //banner区配置
     videoBanner: false,
-    name: "Sensei's 部落格",
-    welcomeText: 'Hello, VitePress',
+    name: "唐雪儿",
+    welcomeText: '我喜欢你，你喜欢我',
     motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
       { icon: 'github', url: 'https://github.com/' },
@@ -91,7 +91,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //spine语音配置，可选zh/jp
-    spineVoiceLang: 'jp',
+    spineVoiceLang: 'zh',
 
     //footer配置
     footerName: 'Sensei',
