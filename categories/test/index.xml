@@ -95,7 +95,7 @@
 &lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Typlog&lt;/a&gt;&lt;/p&gt;
 &lt;script src=&#34;https://utteranc.es/client.js&#34;
-        repo=&#34;zzh9295.github.io&#34;
+        repo=&#34;zzh9295/zzh9295.github.io&#34;
         issue-term=&#34;pathname&#34;
         theme=&#34;github-light&#34;
         crossorigin=&#34;anonymous&#34;
