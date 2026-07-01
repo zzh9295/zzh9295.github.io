@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on 若安-zzh</title>
-        <link>https://zzh9295.github.io/post/</link>
-        <description>Recent content in Posts on 若安-zzh</description>
+        <title>Excel on 若安-zzh</title>
+        <link>https://zzh9295.github.io/categories/excel/</link>
+        <description>Recent content in Excel on 若安-zzh</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>若安-zzh</copyright>
-        <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://zzh9295.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://zzh9295.github.io/categories/excel/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>工程估价</title>
         <link>https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E4%BC%B0%E4%BB%B7/</link>
         <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
@@ -27,28 +27,6 @@
         <description>&lt;h2 id=&#34;excel表格&#34;&gt;Excel表格
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.qq.com/sheet/DSWVJcHhweUpxdVpP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://docs.qq.com/sheet/DSWVJcHhweUpxdVpP&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>BIM建模</title>
-        <link>https://zzh9295.github.io/p/bim%E5%BB%BA%E6%A8%A1/</link>
-        <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://zzh9295.github.io/p/bim%E5%BB%BA%E6%A8%A1/</guid>
-        <description>&lt;h2 id=&#34;viewer预览30天有效期&#34;&gt;Viewer预览（30天有效期）
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://autode.sk/3ReYv4F&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://autode.sk/3ReYv4F&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>CAD制图</title>
-        <link>https://zzh9295.github.io/p/cad%E5%88%B6%E5%9B%BE/</link>
-        <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://zzh9295.github.io/p/cad%E5%88%B6%E5%9B%BE/</guid>
-        <description>&lt;h2 id=&#34;viewer预览30天有效期&#34;&gt;Viewer预览（30天有效期）
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://autode.sk/4vBhHIJ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://autode.sk/4vBhHIJ&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         
