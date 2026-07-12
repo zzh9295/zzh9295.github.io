@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on 若安-zzh</title>
-        <link>https://zzh9295.github.io/post/</link>
-        <description>Recent content in Posts on 若安-zzh</description>
+        <title>设计 on 若安-zzh</title>
+        <link>https://zzh9295.github.io/categories/%E8%AE%BE%E8%AE%A1/</link>
+        <description>Recent content in 设计 on 若安-zzh</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>若安-zzh</copyright>
-        <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://zzh9295.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://zzh9295.github.io/categories/%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>练习作品</title>
         <link>https://zzh9295.github.io/p/%E7%BB%83%E4%B9%A0%E4%BD%9C%E5%93%81/</link>
         <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
