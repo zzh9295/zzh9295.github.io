@@ -8,31 +8,178 @@
         <language>en-us</language>
         <copyright>若安-zzh</copyright>
         <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://zzh9295.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>练习作品</title>
-        <link>https://zzh9295.github.io/p/%E7%BB%83%E4%B9%A0%E4%BD%9C%E5%93%81/</link>
+        <title>工程练习项目</title>
+        <link>https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/</link>
         <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://zzh9295.github.io/p/%E7%BB%83%E4%B9%A0%E4%BD%9C%E5%93%81/</guid>
-        <description>&lt;h2 id=&#34;excel&#34;&gt;Excel
+        <guid>https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/</guid>
+        <description>&lt;h2 id=&#34;excel编制&#34;&gt;Excel编制
 &lt;/h2&gt;&lt;h3 id=&#34;工程估价&#34;&gt;工程估价
-&lt;/h3&gt;&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.qq.com/sheet/DSXZnbFh1UWNnamVq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;工程项目清单&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.qq.com/sheet/DSXZnbFh1UWNnamVq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;项目清单&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;依据多个国标文件独立编制，在单元格中插入计算公式，涵盖多个分部分项工程。&lt;/p&gt;
+&lt;p&gt;文件以投标总价封面和扉页作为开篇，依次呈现填报说明、单位工程投标报价汇总表、分部分项工程项目清单计价表、分部分项工程项目清单综合单价分析表、措施项目清单计价表、措施项目清单构成明细分析表、其他项目清单计价表、总承包服务费计价表以及增值税计价表。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.qq.com/sheet/DSU9jeWdkdnZvWk13&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;工程量计算书&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;依据计算公式，独立手动计算并填入单元格，涵盖多个分部分项工程。&lt;/p&gt;
+&lt;p&gt;依次为A土石方工程、D砌筑工程、E混凝土及钢筋混凝土工程、H门窗工程、J屋面及防水工程、K保温隔热及防腐工程、L楼地面装饰工程、M墙柱面装饰与隔断幕墙工程、N天棚工程、P油漆涂料裱糊工程、Q其他装饰工程，R措施项目。&lt;/p&gt;
 &lt;h3 id=&#34;房地产经济学&#34;&gt;房地产经济学
-&lt;/h3&gt;&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.qq.com/sheet/DSWVJcHhweUpxdVpP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.qq.com/sheet/DSWVJcHhweUpxdVpP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;房地产财务分析&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;以24年广州绿穗房地产开发有限公司（绿城）竞得的海珠区AH101303地块为对象独立进行财务分析并编制报表，撰写项目策划与可行性研究报告。&lt;/p&gt;
+&lt;p&gt;文件共包含八张工作表，分别为产品方案、成本费用、资金筹措、租售及税金、静态盈利能力分析（损益表）、现金流量表PLUS、资金来源与运用以及不确定性分析。&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;autocad制图&#34;&gt;AutoCAD制图
-&lt;/h2&gt;&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://autode.sk/4vBhHIJ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;工程制图&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;revit-bim模型&#34;&gt;Revit BIM模型
-&lt;/h2&gt;&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://autode.sk/3ReYv4F&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;/h2&gt;&lt;h3 id=&#34;建筑&#34;&gt;建筑
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://autode.sk/4xqeHzk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;建筑施工图&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本套建筑施工图以 J-01 建筑设计总说明 为纲领，共包含十一张图纸，依次为 J-02 建筑一层平面图、J-03 建筑二、三层平面图、J-04 建筑出屋顶楼层平面图、J-05 建筑屋顶平面图、J-06 建筑地下室平面图及 1-1 剖面图、J-07 建筑立面图、J-08 建筑 2-2 剖面图、J-09 厕所及老虎窗详图、J-10 门窗详图及门窗表 与 J-11 楼梯详图，完整呈现了该建筑从地下到屋顶各层的平面功能布局、立面造型、竖向剖面关系及关键节点的细部构造做法。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%BB%BA%E7%AD%91.png&#34;
+	width=&#34;2159&#34;
+	height=&#34;1228&#34;
+	srcset=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%BB%BA%E7%AD%91_hu_d9a8042854dcf178.png 480w, https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%BB%BA%E7%AD%91_hu_7f0c07585e9a3d3e.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;建筑&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;175&#34;
+		data-flex-basis=&#34;421px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;结构&#34;&gt;结构
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://autode.sk/4fNos52&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;结构施工图&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本套结构施工图以 G-01 结构设计说明 为总纲，共包含十五张图纸，依次为 G-02 基础平面布置图、G-03（J-1、J-2、J-3 详图）、G-04（J-4~J-8 详图）、G-05 地下室及一层结构平面图、G-06 二、三层结构平面图、G-07 屋面结构平面图、G-08 一层楼面梁结构图、G-09 二层楼面梁结构图、G-10 地下室梁及柱结构图、G-11 屋面梁结构图、G-12 一层柱平面结构图、G-13 二、三层柱平面结构图、G-14 出屋顶楼层柱平面结构图 与 G-15 楼梯结构图，完整呈现了该工程从地基基础到屋面结构各楼层的结构布置、构件尺寸及配筋做法。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%BB%93%E6%9E%84.png&#34;
+	width=&#34;2157&#34;
+	height=&#34;1218&#34;
+	srcset=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%BB%93%E6%9E%84_hu_4d7ebf6a7bc48290.png 480w, https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%BB%93%E6%9E%84_hu_bb8f1a0f416eda8b.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;结构&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;425px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装&#34;&gt;安装
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://autode.sk/3U0PDk8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;安装施工图&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一套简易的设备施工图，包含一至四层空调图、一至四层给排水图与一至四层电气图，完整呈现了各楼层机电管线的平面布置、系统走向及设备定位。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%AE%89%E8%A3%85.png&#34;
+	width=&#34;2147&#34;
+	height=&#34;1224&#34;
+	srcset=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%AE%89%E8%A3%85_hu_a5c1cfd8f458aa4d.png 480w, https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%AE%89%E8%A3%85_hu_32f673c7401142d.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;安装&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;175&#34;
+		data-flex-basis=&#34;420px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;以上均有参考网上其他设计图进行绘制&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;建筑模型&#34;&gt;建筑模型
+&lt;/h2&gt;&lt;h3 id=&#34;revit-bim模型&#34;&gt;Revit BIM模型
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://autode.sk/3U0PNrK&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Revit制作的模型&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;sketchup-3d模型&#34;&gt;SketchUp 3D模型
-&lt;/h2&gt;&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://autode.sk/3SYpySn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;/blockquote&gt;
+&lt;p&gt;以一栋地下一层、地上二至三层的独栋别墅为对象，完整演练从创建项目样板、绘制标高轴网，到搭建内外墙体、插入门窗、生成楼板、设计屋顶与楼梯扶手，再到布置柱梁结构构件和场地环境的整套建模流程。借助 Revit 的参数化设计特性，所有平面、立面、剖面及门窗明细表均与三维模型实时联动，直观展示建筑效果。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%B0%8F%E5%88%AB%E5%A2%85.png&#34;
+	width=&#34;1859&#34;
+	height=&#34;908&#34;
+	srcset=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%B0%8F%E5%88%AB%E5%A2%85_hu_af436a584724b041.png 480w, https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%B0%8F%E5%88%AB%E5%A2%85_hu_be031219986cd83.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;204&#34;
+		data-flex-basis=&#34;491px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;sketchup-3d模型&#34;&gt;SketchUp 3D模型
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://autode.sk/4xwKsqQ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;SketchUp制作的模型&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;3dsmax-3d模型&#34;&gt;3dsMAX 3D模型
-&lt;/h2&gt;&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;3dsMax制作的模型&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;github-小工具开发&#34;&gt;github 小工具开发
-&lt;/h2&gt;&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;github横道图生成器&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;先依据其平面与立面图纸建立轴网，按照底层架空柱廊、二层起居空间、三层屋顶花园的竖向布局逐层拉伸体块，再细致刻画横向长窗、弧形墙体、螺旋楼梯及坡道等关键构件，最终呈现出一个既简洁纯粹又内部精巧镂空的现代建筑几何体。使用 SketchUp 的线面推拉、组件编组、路径跟随等技巧。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E8%90%A8%E4%BC%8F%E4%BC%8A.png&#34;
+	width=&#34;1580&#34;
+	height=&#34;942&#34;
+	srcset=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E8%90%A8%E4%BC%8F%E4%BC%8A_hu_77f4ed6a5a69c12.png 480w, https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E8%90%A8%E4%BC%8F%E4%BC%8A_hu_53390886ea9c7d85.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;167&#34;
+		data-flex-basis=&#34;402px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3dsmax-3d模型&#34;&gt;3dsMAX 3D模型
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://autode.sk/4waLaZz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;3dsMax制作的模型&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;导入CAD图纸，依据室内平面图搭建空间框架，通过墙体挤出与天花板吊顶造型确定整体布局，再依次导入云朵沙发、椭圆茶几、原木边柜等主体家具，利用涡轮平滑修改器处理软包与圆角构件，使所有造型保持风格统一。使用 V-Ray渲染器调配，同时确保色彩统一，在 Photoshop 里转为智能对象然后调整锐化、滤镜，AO图使用正片叠底，通道图放最下层方便选区。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%A5%B6%E6%B2%B9%E5%AE%A2%E5%8E%85.png&#34;
+	width=&#34;2020&#34;
+	height=&#34;929&#34;
+	srcset=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%A5%B6%E6%B2%B9%E5%AE%A2%E5%8E%85_hu_3bb435d1f4a46947.png 480w, https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%A5%B6%E6%B2%B9%E5%AE%A2%E5%8E%85_hu_707f767afd488120.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;217&#34;
+		data-flex-basis=&#34;521px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;github-小工具开发&#34;&gt;Github 小工具开发
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/zzh9295/engineering-chart&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;github横道图生成器&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;专为工程项目进度规划而设计。通过简洁直观的图形界面，用户可以快速维护项目任务清单，系统将自动根据起止日期计算工期，并实时渲染带有时间轴的横道图预览。无论是个人施工项目作业、研发计划，还是其他需要按时间线推进的工程，均可使用本工具进行可视化管理。提供独立可执行exe程序，无需安装 Python 环境即可运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E6%A8%AA%E9%81%93%E5%9B%BE.png&#34;
+	width=&#34;1786&#34;
+	height=&#34;1237&#34;
+	srcset=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E6%A8%AA%E9%81%93%E5%9B%BE_hu_c0bbe0f3e4e03afa.png 480w, https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E6%A8%AA%E9%81%93%E5%9B%BE_hu_afe46f72ff7a69f8.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;346px&#34;
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         
