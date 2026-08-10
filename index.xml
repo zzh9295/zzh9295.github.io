@@ -34,7 +34,6 @@
 &lt;/blockquote&gt;
 &lt;p&gt;以24年广州绿穗房地产开发有限公司（绿城）竞得的海珠区AH101303地块为对象独立进行财务分析并编制报表，撰写项目策划与可行性研究报告。&lt;/p&gt;
 &lt;p&gt;文件共包含八张工作表，分别为产品方案、成本费用、资金筹措、租售及税金、静态盈利能力分析（损益表）、现金流量表PLUS、资金来源与运用以及不确定性分析。&lt;/p&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;autocad制图&#34;&gt;AutoCAD制图
 &lt;/h2&gt;&lt;h3 id=&#34;建筑&#34;&gt;建筑
 &lt;/h3&gt;&lt;blockquote&gt;
@@ -97,7 +96,6 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;以上均有参考网上其他设计图进行绘制&lt;/p&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;建筑模型&#34;&gt;建筑模型
 &lt;/h2&gt;&lt;h3 id=&#34;revit-bim模型&#34;&gt;Revit BIM模型
 &lt;/h3&gt;&lt;blockquote&gt;
@@ -159,13 +157,12 @@
 		data-flex-basis=&#34;521px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;github-小工具开发&#34;&gt;Github 小工具开发
 &lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;点击跳转 &lt;em&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/zzh9295/engineering-chart&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;github横道图生成器&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;专为工程项目进度规划而设计。通过简洁直观的图形界面，用户可以快速维护项目任务清单，系统将自动根据起止日期计算工期，并实时渲染带有时间轴的横道图预览。无论是个人施工项目作业、研发计划，还是其他需要按时间线推进的工程，均可使用本工具进行可视化管理。提供独立可执行exe程序，无需安装 Python 环境即可运行。&lt;/p&gt;
+&lt;p&gt;专为工程项目进度规划而设计。通过简洁直观的图形界面，用户可以快速维护项目任务清单，系统将自动根据起止日期计算工期，并实时渲染带有时间轴的横道图预览，任务类型可选normal/critical/completed,使用不同颜色区分。无论是个人施工项目作业、研发计划，还是其他需要按时间线推进的工程，均可使用本工具进行可视化管理。提供独立可执行exe程序，无需安装 Python 环境即可运行。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://zzh9295.github.io/p/%E5%B7%A5%E7%A8%8B%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E6%A8%AA%E9%81%93%E5%9B%BE.png&#34;
 	width=&#34;1786&#34;
 	height=&#34;1237&#34;
